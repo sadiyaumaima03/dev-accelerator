@@ -16,6 +16,7 @@ companies = [
 def quality_leads(company_list):
     print(f"--QUALIFIED LEADS (ICP Match)--")
     for company in company_list:
+        #filter by two conditions using the logical and operator.
         if company["revenue"] > 10 and company["employees"] >= 50:
             print(f"[QUALIFIED] {company['name']} | Revenue: ${company['revenue']}M | Employees: {company['employees']}")
         else:
