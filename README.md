@@ -14,3 +14,11 @@ AI APIs (like OpenAI or Anthropic) and web services return data formatted as JSO
 - **Day 3:** Dictionaries & JSON data shapes
 - **Day 4:** Functions & Error Handling
 - **Day 5:** Data Cleaning with `pandas` & Git Basics
+
+# Accelerator
+
+**Goal:** Complete the 30/40-day engineering preparation program.
+
+## Repository Structure
+- `week1/`: Basic Python, data types, dictionaries, functions, pandas data cleaning.
+- `CONTRIBUTING.md`: Workflow and Git guidelines.
